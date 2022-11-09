@@ -1,2 +1,2 @@
 # Garys Portfolio
-Portfoloio: https://gsparmar.github.io/gary_portfolio/
+Portfolio: https://gsparmar.github.io/gary_portfolio/
