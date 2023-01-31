@@ -397,11 +397,13 @@ header {
 .portfolio {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 0.8rem;
 }
 
 .portfolio__item {
   background: var(--clr-accent);
   overflow: hidden;
+  border-radius: 1rem;
 }
 
 .portfolio__img {
